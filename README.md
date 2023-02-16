@@ -22,7 +22,6 @@
 <p align="center">
  <a href="#-about">About</a> |
  <a href="#-layout">Layout</a> | 
- <a href="#-how-it-works">How It Works</a> | 
  <a href="#-technologies">Technologies</a> | 
  <a href="#-author">Author</a> | 
  <a href="#-license">License</a>
