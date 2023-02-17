@@ -41,7 +41,7 @@ Você pode baixar o layout do projeto através [desse link](https://boracodar.de
 ### Web
 
 <p align="center">
-  <img alt="Layout Web Demonstration" title="#Web" src=".github/images/web-demonstration.png" width="100%">
+  <img alt="Layout Web Demonstration" title="#Web" src=".github/preview.jpg" width="100%">
 </p>
 
 ---
