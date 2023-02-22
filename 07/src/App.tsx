@@ -1,6 +1,8 @@
 import { Block } from './components/Block'
 import { Header } from './components/Header'
 
+import { blocks } from './mock/blocks'
+
 export default function App() {
     return (
         <main>
@@ -21,8 +23,11 @@ export default function App() {
                 </div>
 
                 <section className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-9">
-                    {Array.from({ length: 10 }).map((_, i) => (
-                        <Block key={`block-${i}`} />
+                    {blocks.map((block) => (
+                        <Block 
+                            key={`block-${block.name}`}
+                            data={block}
+                        />
                     ))}
                 </section>
             </div>
